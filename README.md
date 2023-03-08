@@ -17,7 +17,7 @@ The Portfolio Management System will be maintaining the information about the re
 # OPERATING ENVIRONMENT 
 The website will be compatible with all the major browsers like Mozilla Firefox, Google Chrome, Opera etc. and platform (Windows XP, Windows Vista and Windows 7, Linux, Macintosh etc.). This website will also be surfed on mini browsers.
 
-
+# SAMPLE CODE
 <!DOCTYPE html>
 <html lang="en">
   <head>
